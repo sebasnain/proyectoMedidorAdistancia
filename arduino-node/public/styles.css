@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(78, 88, 68);
+}
+
+body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+    #valor { font-size: 48px; color: green; }
