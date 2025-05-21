@@ -1,6 +1,39 @@
 body{
-    background-color: rgb(78, 88, 68);
+    background-color: rgb(112, 119, 109);
 }
 
-body { font-family: sans-serif; text-align: center; margin-top: 50px; }
-    #valor { font-size: 48px; color: green; }
+body {
+     font-family: sans-serif; 
+     text-align: center; 
+     margin-top: 50px;
+     }
+
+
+.boxContainer{
+    display: flex;
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.elBin{
+    display: flex;
+    align-items: end;
+    background-color: rgb(65, 60, 60);
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+
+.liquido{
+    background-color: rgb(51, 155, 120);
+    height: 80%;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+
